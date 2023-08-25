@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/png">
+        <file>Груша/grusha.png</file>
+    </qresource>
+</RCC>
